@@ -2,78 +2,92 @@
 A friendly, responsive HTML and CSS template designed for a pet adoption website, focusing on dogs and cats.
 This project was built as part of my learning journey in frontend development.
 
-🎓 Based on a Tutorial by Elzero Web School
+🎓 Built with the Help of Elzero Web School
 I followed a tutorial by Elzero Web School to build the original layout and structure.
 🔗 HTML & CSS Template Two by Elzero
 
-🐶 My Customized Version
-I redesigned the template to fit a pet adoption theme.
-I added heartwarming sections like adoption stories, benefits of adoption, stats, and more.
-I also adjusted the colors and imagery to create a welcoming, pet-friendly atmosphere.
+🐶 My Own Idea & Customization
+This version is fully customized by me to support pet adoption.
+
+I added sections like:
+
+🐾 Adoption benefits
+
+🐾 Real adoption stories
+
+🐾 Shelter stats
+
+🐾 Friendly, emotional design touches
 
 🔗 Live Demo – HappyTail
 
 📌 Features
-Fully responsive design
+✅ Fully responsive layout
 
-Custom sections: Hero, Benefits, Adoption Gallery, Happy Tails, Stats, Testimonials, Contact
+✅ Custom sections: Hero, Benefits, Adoption Gallery, Happy Tails, Stats, Testimonials, Contact
 
-Warm and friendly color scheme
+✅ Warm and friendly color palette
 
-Google Fonts and Font Awesome icons
+✅ Google Fonts + Font Awesome icons
 
-Built with pure HTML5 & CSS3 (no JavaScript)
+✅ Built entirely with HTML5 & CSS3 (no JavaScript)
 
 🧰 Tech Stack
-HTML5
+🔧 HTML5
 
-CSS3
+🎨 CSS3
 
-Font Awesome
+⭐ Font Awesome
 
-Google Fonts
+🔤 Google Fonts
 
 🙋‍♀️ Author
 Created by Hajar Al-Anazi
-As part of a personal project to practice and enhance my frontend skills.
+As a personal project to practice, learn, and enhance my frontend skills.
 
 🐾 HappyTail – قالب HTML و CSS
-قالب بسيط ومتجاوب لموقع تبني الحيوانات الأليفة، مع تركيز خاص على الكلاب والقطط.
-تم تطوير هذا المشروع كجزء من رحلتي التعليمية في تعلم تطوير الواجهات الأمامية.
+قالب ودود ومتجاوب لموقع يهدف إلى تبني الحيوانات الأليفة، مع تركيز خاص على الكلاب والقطط.
+تم تطويره كجزء من رحلتي التعليمية في تطوير الواجهات الأمامية.
 
-🎓 مبني على دورة Elzero Web School
-اتبعت دورة من Elzero Web School لإنشاء التصميم الأصلي.
+🎓 بنيت الهيكل الأساسي من دورة Elzero Web School
+استفدت من دورة Elzero Web School في إنشاء الهيكل الأساسي للمشروع.
 🔗 HTML & CSS Template Two by Elzero
 
-🐶 نسختي المعدلة
-أعدت تصميم القالب ليعكس فكرة تبني الحيوانات، مع إضافة أقسام مؤثرة مثل:
-فوائد التبني، معرض الحيوانات، قصص التبني، إحصائيات الملجأ، وغيرها.
-كما قمت بتعديل الألوان والصور لتتناسب مع الطابع الودود والمحبب لعشاق الحيوانات.
+🐶 الفكرة والتعديلات من تصميمي بالكامل
+قمت بتخصيص المشروع بالكامل ليتوافق مع موضوع تبني الحيوانات.
+أضفت أقسامًا مثل:
 
-🔗 رابط نسختي – HappyTail
+🐾 فوائد التبني
+
+🐾 قصص حقيقية من التبني
+
+🐾 إحصائيات ملجأ
+
+🐾 تصميم ودي ومؤثر
+
+🔗 رابط العرض المباشر – HappyTail
 
 📌 المميزات
-تصميم متجاوب بالكامل
+✅ تصميم متجاوب بالكامل
 
-أقسام مخصصة: المقدمة، الفوائد، التبني، قصص التبني، الإحصائيات، الشهادات، التواصل
+✅ أقسام مخصصة: المقدمة، الفوائد، المعرض، قصص التبني، الإحصائيات، الشهادات، تواصل
 
-ألوان دافئة وودودة
+✅ ألوان دافئة ومريحة
 
-استخدام Google Fonts و Font Awesome
+✅ استخدام Google Fonts و Font Awesome
 
-يعتمد فقط على HTML و CSS (بدون JavaScript)
+✅ يعتمد فقط على HTML و CSS (بدون JavaScript)
 
 🧰 التقنيات المستخدمة
-HTML5
+🔧 HTML5
 
-CSS3
+🎨 CSS3
 
-Font Awesome
+⭐ Font Awesome
 
-Google Fonts
+🔤 Google Fonts
 
 🙋‍♀️ المطورة
 تم تطويره بواسطة هاجر العنزي
-كمشروع شخصي لتطوير وتحسين مهاراتي في الواجهات الأمامية.
-
+كمشروع شخصي لتعلم وبناء مواقع تفاعلية وتحسين مهاراتي في الواجهات الأمامية.
 
