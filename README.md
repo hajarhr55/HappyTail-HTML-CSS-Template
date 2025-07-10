@@ -1,3 +1,4 @@
+
 🐾 HappyTail – HTML & CSS Template
 A friendly, responsive HTML and CSS template designed for a pet adoption website, focusing on dogs and cats.
 This project was built as part of my learning journey in frontend development.
@@ -90,4 +91,3 @@ As a personal project to practice, learn, and enhance my frontend skills.
 🙋‍♀️ المطورة
 تم تطويره بواسطة هاجر العنزي
 كمشروع شخصي لتعلم وبناء مواقع تفاعلية وتحسين مهاراتي في الواجهات الأمامية.
-
