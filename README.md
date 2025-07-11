@@ -1,93 +1,74 @@
+# HappyTail – HTML & CSS Template
 
-🐾 HappyTail – HTML & CSS Template
-A friendly, responsive HTML and CSS template designed for a pet adoption website, focusing on dogs and cats.
-This project was built as part of my learning journey in frontend development.
+A colorful, responsive HTML and CSS template for a pet care and adoption website.
+This project was built as a part of my learning journey in frontend development.
 
-🎓 Built with the Help of Elzero Web School
-I followed a tutorial by Elzero Web School to build the original layout and structure.
-🔗 HTML & CSS Template Two by Elzero
+## 🎓 Based on a Tutorial by Elzero Web School
 
-🐶 My Own Idea & Customization
-This version is fully customized by me to support pet adoption.
+I followed a tutorial by [Elzero Web School](https://elzerowebschool.com/) to build the original layout and structure.
+Here is the original project created in the tutorial:
+🔗 [Leon Template by Elzero](https://elzerowebschool.github.io/HTML_And_CSS_Template_One/)
 
-I added sections like:
+## 🐾 My Customized Version
 
-🐾 Adoption benefits
+I redesigned the template to reflect a fun and warm pet care theme with playful colors and an inviting look.
+🔗 [My version – HappyTail](https://hajarhr55.github.io/HTML-CSS-Template1/)
 
-🐾 Real adoption stories
+## 📌 Features
 
-🐾 Shelter stats
+* Fully responsive design
+* Custom sections: Hero, Services, About, Contact
+* Bright and playful color scheme
+* Google Fonts and Font Awesome icons
+* Pure HTML & CSS (no JavaScript)
 
-🐾 Friendly, emotional design touches
+## 🧰 Tech Stack
 
-🔗 Live Demo – HappyTail
+* HTML5
+* CSS3
+* Font Awesome
+* Google Fonts
 
-📌 Features
-✅ Fully responsive layout
+## 🙋‍♀️ Author
 
-✅ Custom sections: Hero, Benefits, Adoption Gallery, Happy Tails, Stats, Testimonials, Contact
+Created by **Hajar Al-Anazi**
+As part of a personal practice and improvement project.
 
-✅ Warm and friendly color palette
+---
 
-✅ Google Fonts + Font Awesome icons
+# HappyTail – قالب HTML و CSS
 
-✅ Built entirely with HTML5 & CSS3 (no JavaScript)
+قالب ملون ومتجاوب لموقع يهتم بالحيوانات الأليفة والتبني، تم تطويره باستخدام HTML و CSS فقط.
+هذا المشروع جزء من رحلتي التعليمية في تعلم تطوير الواجهات الأمامية.
 
-🧰 Tech Stack
-🔧 HTML5
+## 🎓 مبني على دورة Elzero Web School
 
-🎨 CSS3
+اتبعت دورة من [Elzero Web School](https://elzerowebschool.com/) لإنشاء التصميم الأصلي.
+رابط المشروع الأصلي الذي تم بناؤه في الدورة:
+🔗 [Leon Template by Elzero](https://elzerowebschool.github.io/HTML_And_CSS_Template_One/)
 
-⭐ Font Awesome
+## 🐾 نسختي المعدلة
 
-🔤 Google Fonts
+أعدت تصميم القالب ليعكس طابعًا مرحًا ومناسبًا لمواقع رعاية الحيوانات، باستخدام ألوان دافئة ومبهجة.
+🔗 [HappyTail – نسختي المعدلة](https://hajarhr55.github.io/HTML-CSS-Template1/)
 
-🙋‍♀️ Author
-Created by Hajar Al-Anazi
-As a personal project to practice, learn, and enhance my frontend skills.
+## 📌 المميزات
 
-🐾 HappyTail – قالب HTML و CSS
-قالب ودود ومتجاوب لموقع يهدف إلى تبني الحيوانات الأليفة، مع تركيز خاص على الكلاب والقطط.
-تم تطويره كجزء من رحلتي التعليمية في تطوير الواجهات الأمامية.
+* تصميم متجاوب بالكامل
+* أقسام مخصصة: المقدمة، الخدمات، من نحن، تواصل معنا
+* ألوان مبهجة ومرحة
+* استخدام Google Fonts و Font Awesome
+* يعتمد فقط على HTML و CSS (بدون JavaScript)
 
-🎓 بنيت الهيكل الأساسي من دورة Elzero Web School
-استفدت من دورة Elzero Web School في إنشاء الهيكل الأساسي للمشروع.
-🔗 HTML & CSS Template Two by Elzero
+## 🧰 التقنيات المستخدمة
 
-🐶 الفكرة والتعديلات من تصميمي بالكامل
-قمت بتخصيص المشروع بالكامل ليتوافق مع موضوع تبني الحيوانات.
-أضفت أقسامًا مثل:
+* HTML5
+* CSS3
+* Font Awesome
+* Google Fonts
 
-🐾 فوائد التبني
+## 🙋‍♀️ المطورة
 
-🐾 قصص حقيقية من التبني
+تم تطويره بواسطة **هاجر العنزي**
+كمشروع شخصي لتحسين المهارات.
 
-🐾 إحصائيات ملجأ
-
-🐾 تصميم ودي ومؤثر
-
-🔗 رابط العرض المباشر – HappyTail
-
-📌 المميزات
-✅ تصميم متجاوب بالكامل
-
-✅ أقسام مخصصة: المقدمة، الفوائد، المعرض، قصص التبني، الإحصائيات، الشهادات، تواصل
-
-✅ ألوان دافئة ومريحة
-
-✅ استخدام Google Fonts و Font Awesome
-
-✅ يعتمد فقط على HTML و CSS (بدون JavaScript)
-
-🧰 التقنيات المستخدمة
-🔧 HTML5
-
-🎨 CSS3
-
-⭐ Font Awesome
-
-🔤 Google Fonts
-
-🙋‍♀️ المطورة
-تم تطويره بواسطة هاجر العنزي
-كمشروع شخصي لتعلم وبناء مواقع تفاعلية وتحسين مهاراتي في الواجهات الأمامية.
